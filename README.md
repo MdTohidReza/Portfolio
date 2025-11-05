@@ -1,6 +1,6 @@
 # Build a Modern Portfolio Website with React & TailwindCSS
 
-<div align="center">
+
   <br />
   <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
     <img src="./banner.png" alt="Portfolio Website Banner">
@@ -84,8 +84,7 @@ In this tutorial, you'll learn how to build a modern portfolio website using **R
 
 ### Prerequisites
 
-* [Node.js](https://nodejs.org/)
-* [Git](https://git-scm.com/)
+
 
 ### Clone and Run
 
